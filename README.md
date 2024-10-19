@@ -4,16 +4,16 @@ This is a list of popular addresses and assets. We are open to pull request but 
 
 ## Addresses
 
-Short list. Full in [accounts.json](accounts.json)
+Short list. Full in [accounts.json](accounts.json) 
 
 Name           | Address
----------------|-----------
+TON Assets--------------|UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF-----------
 [CAT Services](https://tonviewer.com/0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802) | EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
-[TON Foundation (OLD)](https://tonviewer.com/0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8) | EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N
-[TON Ecosystem Reserve (OLD)](https://tonviewer.com/0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270) | EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT
-[Elector Contract](https://tonviewer.com/-1:3333333333333333333333333333333333333333333333333333333333333333) | Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF
-[Config Contract](https://tonviewer.com/-1:5555555555555555555555555555555555555555555555555555555555555555) | Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn
-[System](https://tonviewer.com/-1:0000000000000000000000000000000000000000000000000000000000000000) | Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU
+[TON Foundation (OLD)](https://tonviewer.com/0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8) | UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+[TON Ecosystem Reserve (OLD)](https://tonviewer.com/0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270) | UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+[Elector Contract](https://tonviewer.com/-1: | UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+[Config Contract](https://tonviewer.com/-1: | UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+[System](https://tonviewer.com/-1: | UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
 [Log tests Contract](https://tonviewer.com/-1:34517c7bdf5187c55af4f8b61fdc321588c7ab768dee24b006df29106458d7cf) | Ef80UXx731GHxVr0-LYf3DIViMerdo3uJLAG3ykQZFjXz2kW
 [.ton DNS](https://tonviewer.com/0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf) | EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz
 [TON Believers Fund](https://tonviewer.com/0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7) | EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
@@ -62,7 +62,7 @@ Name           | Address
 ## NFT collections
 
 Name           | Address
----------------|-----------
+NFT collections---------------|UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF----------
 [Cryptodickbutt](https://tonviewer.com/0:da6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf) | EQDaaxtmY6Dk0YzIV0zNnbUpbjZ92TJHBvO72esc0srwv8K2
 [TEST](https://tonviewer.com/0:fb13c2de1d3cb04b6ab57148cc2595bd9449f81ddc3d7405bb7edfaaa16a6790) | EQD7E8LeHTywS2q1cUjMJZW9lEn4Hdw9dAW7ft-qoWpnkLul
 [Telegram usernames](https://tonviewer.com/0:80d78a35f955a14b679faa887ff4cd5bfc0f43b4a4eea2a7e6927f3701b273c2) | EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi
@@ -74,7 +74,7 @@ Name           | Address
 ## Jettons
 
 Name           | Address
----------------|-----------
+---------------|UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF----------
 [ Vladimir Putin's Dog](https://tonviewer.com/0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542) | EQA0tQ880E68-ZGsugW3kjm5hk_5hUAWTdVggFlJmqqVQgCm
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [$TON Mixer](https://tonviewer.com/0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5) | EQAdFbynSUlzIlh_I4fXuYaer3rvY0TG0BK-NQZ-Y871pZoM
