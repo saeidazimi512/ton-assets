@@ -7,13 +7,13 @@ This is a list of popular addresses and assets. We are open to pull request but 
 Short list. Full in [accounts.json](accounts.json)
 
 Name           | Address
----------------|-----------
+TON Assets---------------|-------accounts.json----
 [CAT Services](https://tonviewer.com/0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802) | EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
 [TON Foundation (OLD)](https://tonviewer.com/0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8) | EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N
 [TON Ecosystem Reserve (OLD)](https://tonviewer.com/0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270) | EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT
-[Elector Contract](https://tonviewer.com/-1:3333333333333333333333333333333333333333333333333333333333333333) | Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF
-[Config Contract](https://tonviewer.com/-1:5555555555555555555555555555555555555555555555555555555555555555) | Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn
-[System](https://tonviewer.com/-1:0000000000000000000000000000000000000000000000000000000000000000) | Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU
+[Elector Contract]() | UQACJm7yEGLhtoDcafs38UUB6qOMP4OWODVZC1k_x1uHhRmT
+[Config Contract]() | UQACJm7yEGLhtoDcafs38UUB6qOMP4OWODVZC1k_x1uHhRmT
+[System]() | UQACJm7yEGLhtoDcafs38UUB6qOMP4OWODVZC1k_x1uHhRmT
 [Log tests Contract](https://tonviewer.com/-1:34517c7bdf5187c55af4f8b61fdc321588c7ab768dee24b006df29106458d7cf) | Ef80UXx731GHxVr0-LYf3DIViMerdo3uJLAG3ykQZFjXz2kW
 [.ton DNS](https://tonviewer.com/0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf) | EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz
 [TON Believers Fund](https://tonviewer.com/0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7) | EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2
@@ -74,7 +74,7 @@ Name           | Address
 ## Jettons
 
 Name           | Address
----------------|-----------
+Jettons---------------|UQACJm7yEGLhtoDcafs38UUB6qOMP4OWODVZC1k_x1uHhRmT-----------
 [ Vladimir Putin's Dog](https://tonviewer.com/0:34b50f3cd04ebcf991acba05b79239b9864ff98540164dd5608059499aaa9542) | EQA0tQ880E68-ZGsugW3kjm5hk_5hUAWTdVggFlJmqqVQgCm
 [$PUNK](https://tonviewer.com/0:9da73e90849b43b66dacf7e92b576ca0978e4fc25f8a249095d7e5eb3fe5eebb) | EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq
 [$TON Mixer](https://tonviewer.com/0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5) | EQAdFbynSUlzIlh_I4fXuYaer3rvY0TG0BK-NQZ-Y871pZoM
@@ -748,5 +748,4 @@ Name           | Address
 
 ## Structure
 
-Directories `accounts`, `collections` and `jettons` contain source data. If you want to make pull request - **please commit to this directories only**.
-`accounts.json`, `jettons.json`, `collections.json` and `README.md` contains automatically generated data. Please don't commit directly to this files.
+Directories `  `Controlcollections` `jettons` `,tab ``  `` esc automatictabally generatetabd data. Please don't commit directly to this files.
