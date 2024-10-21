@@ -1,40 +1,40 @@
-[
- {
-  "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
+[ UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+ {UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
+  "address": UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF"0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
   "name": "CAT Services"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8",
   "name": "TON Foundation (OLD)"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270",
   "name": "TON Ecosystem Reserve (OLD)"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
-  "address": "-1:3333333333333333333333333333333333333333333333333333333333333333",
+  "address": "-1:UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF,
   "name": "Elector Contract"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
-  "address": "-1:5555555555555555555555555555555555555555555555555555555555555555",
+  "address": UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF,
   "name": "Config Contract"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
-  "address": "-1:0000000000000000000000000000000000000000000000000000000000000000",
+  "address": ",
   "name": "System"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "-1:34517c7bdf5187c55af4f8b61fdc321588c7ab768dee24b006df29106458d7cf",
   "name": "Log tests Contract"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf",
   "name": ".ton DNS"
  },
- {
+ {UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
   "address": "0:ed1691307050047117b998b561d8de82d31fbf84910ced6eb5fc92e7485ef8a7",
   "name": "TON Believers Fund"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:a45b17f28409229b78360e3290420f13e4fe20f90d7e2bf8c4ac6703259e22fa",
   "name": "Tonstakers"
@@ -42,11 +42,11 @@
  {
   "address": "0:dfbd5be8497fdc0c9fcbdfc676864840ddf8ad6423d6d5657d9b0e8270d6c8ac",
   "name": "Tonkeeper battery"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:9b8ab637507230b99de26a55ea6d9cd4fef0cffcaafe2d1f15e835d5f5d38a43",
   "name": "TONAPI gas proxy"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:1c06b78eb4c0c014b51308221f6263643746fe7be60b4831a8409051cba0306f",
   "name": "TONAPI gas proxy"
@@ -54,31 +54,31 @@
  {
   "address": "0:0bc884e676ba3dcaabe75cea71c38d6691ed0d6a89cfd95d2772c32f7be01262",
   "name": "TONAPI gas proxy"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:f33f5a1e309236c21fd412b9d522e24a6a6ef3745c01f7ec7d731bc0f844c334",
   "name": "TONAPI gas proxy"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:e3b375a5f71ea17bec125d3a88f6483575ee909b16010eefed9b64fe9b0d64e5",
   "name": "TONAPI gas proxy"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:73727a419e7d7f1ae1c455e58ee432f26e3a75b31078f99cedcac403f47619be",
   "name": "TONAPI gas proxy"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:d5a60826d1d4f157085d2bc751d037c61f1fe2d55322cd5bc0297456c513dd69",
   "name": "TONAPI gas proxy"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:a1809e9a6f64adde7f0f485742968433a621a4f3b5e1c5920a7077d7b63c3411",
   "name": "TONAPI gas proxy"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:c6f5916443f6f707139b108edce317ea52a8c4c5e5afaf9a3c6e93d64685d95d",
   "name": "TONAPI gas proxy"
- },
+ },UQC6U3A1zDz94IzOhbyrARiqCwph110sYQtXHHlKM2UbHEQF
  {
   "address": "0:695a70302a23c2b4a1b987a85efa97ecbb9d1595e6f3fe95259290e04b54cf1f",
   "name": "TONAPI gas proxy"
