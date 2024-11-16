@@ -1,8 +1,14 @@
-# TON Assets
+name: the name of your token
+description: description of your token
+image: "link to your token logo" !!! (don't use ton.api)!!!
+address: Address of your token 
+symbol: Symbol of your token
+websites:
+  - "link"
+social:
+  - "link"
 
-This is a list of popular addresses and assets. We are open to pull request but **please read manual in the end of this readme for PR**.
-
-## Addresses
+## Addresses 
 
 Short list. Full in [accounts.json](accounts.json)
 
